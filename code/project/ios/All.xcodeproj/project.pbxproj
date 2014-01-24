@@ -1,0 +1,514 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		FF8F3B6EC9E2B8F964A6C886 /* All */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 1CF626B6B5F4D8453DB8EB8E /* Build configuration list for PBXAggregateTarget "All" */;
+			buildPhases = (
+			);
+			dependencies = (
+				87EAEFA9615403DD36BF9261 /* PBXTargetDependency */,
+				DEF9DF951FA4CD3038A2F34B /* PBXTargetDependency */,
+				92852D39095209CA52CC0106 /* PBXTargetDependency */,
+				5E630CF24A03FAFC6048CAFC /* PBXTargetDependency */,
+				1098D37D0E438831364C3F52 /* PBXTargetDependency */,
+			);
+			name = All;
+			productName = All;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXContainerItemProxy section */
+		098A85D5913D1DDD183F0368 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AC86A92BBB3BA2F13CA31984 /* ShapeBlaster_Part4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 75D817FCA649A4E6E8FBFB4B;
+			remoteInfo = ShapeBlaster_Part4;
+		};
+		2A1F28A6CF463CA028629CB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 801280E5022B83280C5CA7E5 /* ShapeBlaster_Part1.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 2A38E99625A781948BBCD12F;
+			remoteInfo = ShapeBlaster_Part1;
+		};
+		3604DA4118295C9ED8EE1F37 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AC86A92BBB3BA2F13CA31984 /* ShapeBlaster_Part4.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = BDAB3C7E015978E5A547F606;
+			remoteInfo = ShapeBlaster_Part4;
+		};
+		860843AC41AB51CD2EF0A874 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F36429F6D77DC423C20D9675 /* ShapeBlaster_Part5.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 66A80BBD2613BB80C3D3F86F;
+			remoteInfo = ShapeBlaster_Part5;
+		};
+		8BA657F7F48E64989FD6E199 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 801280E5022B83280C5CA7E5 /* ShapeBlaster_Part1.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8FEDC25E68929707B973ECB2;
+			remoteInfo = ShapeBlaster_Part1;
+		};
+		A6DEC518ED623CC29F80DDE1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F36429F6D77DC423C20D9675 /* ShapeBlaster_Part5.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = E6147B2DF5C7E550A3A3A249;
+			remoteInfo = ShapeBlaster_Part5;
+		};
+		AC79DFB748EE5ECEBE5519AC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4809E41EA086327C476189F0 /* ShapeBlaster_Part3.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 84DB652B46ED251145C2FC6F;
+			remoteInfo = ShapeBlaster_Part3;
+		};
+		C969650AC904DD9AF3E33A2F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4809E41EA086327C476189F0 /* ShapeBlaster_Part3.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 14C2388FF2566CEC0BB06633;
+			remoteInfo = ShapeBlaster_Part3;
+		};
+		E3C0F423856B374440F43A48 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 08856D5FE51409AE354DC3B8 /* ShapeBlaster_Part2.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = DF6545A240E3311420DFFDB8;
+			remoteInfo = ShapeBlaster_Part2;
+		};
+		F2ABDF2270512A356CB50551 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 08856D5FE51409AE354DC3B8 /* ShapeBlaster_Part2.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 34D9DA23BD363D0F6D2669C8;
+			remoteInfo = ShapeBlaster_Part2;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		08856D5FE51409AE354DC3B8 /* ShapeBlaster_Part2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ShapeBlaster_Part2.xcodeproj; path = ../ios/ShapeBlaster_Part2.xcodeproj; sourceTree = SOURCE_ROOT; };
+		4809E41EA086327C476189F0 /* ShapeBlaster_Part3.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ShapeBlaster_Part3.xcodeproj; path = ../ios/ShapeBlaster_Part3.xcodeproj; sourceTree = SOURCE_ROOT; };
+		775ABB748B6C0763351685F4 /* All.gyp */ = {isa = PBXFileReference; explicitFileType = sourcecode; path = All.gyp; sourceTree = "<group>"; };
+		801280E5022B83280C5CA7E5 /* ShapeBlaster_Part1.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ShapeBlaster_Part1.xcodeproj; path = ../ios/ShapeBlaster_Part1.xcodeproj; sourceTree = SOURCE_ROOT; };
+		856B28E93B1737A5E3D6097F /* common.gypi */ = {isa = PBXFileReference; explicitFileType = sourcecode; path = common.gypi; sourceTree = "<group>"; };
+		AC86A92BBB3BA2F13CA31984 /* ShapeBlaster_Part4.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ShapeBlaster_Part4.xcodeproj; path = ../ios/ShapeBlaster_Part4.xcodeproj; sourceTree = SOURCE_ROOT; };
+		F36429F6D77DC423C20D9675 /* ShapeBlaster_Part5.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ShapeBlaster_Part5.xcodeproj; path = ../ios/ShapeBlaster_Part5.xcodeproj; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		4489E7643D16DDA87E2041FF = {
+			isa = PBXGroup;
+			children = (
+				5AA7C0635E3C0453823C76E8 /* Projects */,
+				F4E932DAE504D11373DA2B26 /* Build */,
+			);
+			sourceTree = "<group>";
+		};
+		537EA922B4E920A37FC4134A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3B7E9496AE8CD27DF07802FE /* ShapeBlaster_Part4.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		56D722787D9E80B4A1893FA9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				34AE726E679A98F29E3CCE3B /* ShapeBlaster_Part2.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5AA7C0635E3C0453823C76E8 /* Projects */ = {
+			isa = PBXGroup;
+			children = (
+				801280E5022B83280C5CA7E5 /* ShapeBlaster_Part1.xcodeproj */,
+				08856D5FE51409AE354DC3B8 /* ShapeBlaster_Part2.xcodeproj */,
+				4809E41EA086327C476189F0 /* ShapeBlaster_Part3.xcodeproj */,
+				AC86A92BBB3BA2F13CA31984 /* ShapeBlaster_Part4.xcodeproj */,
+				F36429F6D77DC423C20D9675 /* ShapeBlaster_Part5.xcodeproj */,
+			);
+			name = Projects;
+			sourceTree = "<group>";
+		};
+		9B43D144D00E08D6154511D4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E6056DF32754BCDE2D9EB281 /* ShapeBlaster_Part1.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B61ED08F6999E71044490662 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				97B088867B2878B18ACFDBF1 /* ShapeBlaster_Part5.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F4E932DAE504D11373DA2B26 /* Build */ = {
+			isa = PBXGroup;
+			children = (
+				775ABB748B6C0763351685F4 /* All.gyp */,
+				856B28E93B1737A5E3D6097F /* common.gypi */,
+			);
+			name = Build;
+			sourceTree = "<group>";
+		};
+		F7A7CEF6DFD6527D1AB33F8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DB8F0F15E75F17949A4DD94B /* ShapeBlaster_Part3.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		FEA76CDD3C70B794E2326810 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 0500;
+			};
+			buildConfigurationList = EEDC546F642F0A1B5EF11C4E /* Build configuration list for PBXProject "All" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 1;
+			mainGroup = 4489E7643D16DDA87E2041FF;
+			projectDirPath = ../common;
+			projectReferences = (
+				{
+					ProductGroup = 9B43D144D00E08D6154511D4 /* Products */;
+					ProjectRef = 801280E5022B83280C5CA7E5 /* ShapeBlaster_Part1.xcodeproj */;
+				},
+				{
+					ProductGroup = 56D722787D9E80B4A1893FA9 /* Products */;
+					ProjectRef = 08856D5FE51409AE354DC3B8 /* ShapeBlaster_Part2.xcodeproj */;
+				},
+				{
+					ProductGroup = F7A7CEF6DFD6527D1AB33F8B /* Products */;
+					ProjectRef = 4809E41EA086327C476189F0 /* ShapeBlaster_Part3.xcodeproj */;
+				},
+				{
+					ProductGroup = 537EA922B4E920A37FC4134A /* Products */;
+					ProjectRef = AC86A92BBB3BA2F13CA31984 /* ShapeBlaster_Part4.xcodeproj */;
+				},
+				{
+					ProductGroup = B61ED08F6999E71044490662 /* Products */;
+					ProjectRef = F36429F6D77DC423C20D9675 /* ShapeBlaster_Part5.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				FF8F3B6EC9E2B8F964A6C886 /* All */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		34AE726E679A98F29E3CCE3B /* ShapeBlaster_Part2.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = ShapeBlaster_Part2.app;
+			remoteRef = F2ABDF2270512A356CB50551 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		3B7E9496AE8CD27DF07802FE /* ShapeBlaster_Part4.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = ShapeBlaster_Part4.app;
+			remoteRef = 098A85D5913D1DDD183F0368 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		97B088867B2878B18ACFDBF1 /* ShapeBlaster_Part5.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = ShapeBlaster_Part5.app;
+			remoteRef = 860843AC41AB51CD2EF0A874 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		DB8F0F15E75F17949A4DD94B /* ShapeBlaster_Part3.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = ShapeBlaster_Part3.app;
+			remoteRef = AC79DFB748EE5ECEBE5519AC /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		E6056DF32754BCDE2D9EB281 /* ShapeBlaster_Part1.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = ShapeBlaster_Part1.app;
+			remoteRef = 8BA657F7F48E64989FD6E199 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXTargetDependency section */
+		1098D37D0E438831364C3F52 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ShapeBlaster_Part5;
+			targetProxy = A6DEC518ED623CC29F80DDE1 /* PBXContainerItemProxy */;
+		};
+		5E630CF24A03FAFC6048CAFC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ShapeBlaster_Part4;
+			targetProxy = 3604DA4118295C9ED8EE1F37 /* PBXContainerItemProxy */;
+		};
+		87EAEFA9615403DD36BF9261 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ShapeBlaster_Part1;
+			targetProxy = 2A1F28A6CF463CA028629CB8 /* PBXContainerItemProxy */;
+		};
+		92852D39095209CA52CC0106 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ShapeBlaster_Part3;
+			targetProxy = C969650AC904DD9AF3E33A2F /* PBXContainerItemProxy */;
+		};
+		DEF9DF951FA4CD3038A2F34B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ShapeBlaster_Part2;
+			targetProxy = E3C0F423856B374440F43A48 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		2C9CD9B8109798C7542CE1BE /* release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				CLANG_STATIC_ANALYZER_MODE = deep;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_IMPLICIT_SIGN_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_IMPLICIT_CONVERSION = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COMBINE_HIDPI_IMAGES = NO;
+				COPY_PHASE_STRIP = YES;
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_POSTPROCESSING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = YES;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_FAST_MATH = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=0",
+					"NDEBUG=1",
+				);
+				GCC_STRICT_ALIASING = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
+				GCC_TREAT_INCOMPATIBLE_POINTER_TYPE_WARNINGS_AS_ERRORS = YES;
+				GCC_UNROLL_LOOPS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_FIELD_INITIALIZERS = YES;
+				GCC_WARN_ABOUT_MISSING_NEWLINE = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_FOUR_CHARACTER_CONSTANTS = YES;
+				GCC_WARN_INITIALIZER_NOT_FULLY_BRACKETED = YES;
+				GCC_WARN_SHADOW = YES;
+				GCC_WARN_SIGN_COMPARE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNKNOWN_PRAGMAS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_LABEL = YES;
+				GCC_WARN_UNUSED_PARAMETER = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					../../source,
+					../../source/Utility/ios,
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LD_NO_PIE = YES;
+				LLVM_LTO = NO;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_NAME = All;
+				RUN_CLANG_STATIC_ANALYZER = YES;
+				SEPARATE_STRIP = YES;
+				STRIP_INSTALLED_PRODUCT = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				WARNING_CFLAGS = (
+					"-Wall",
+					"-Werror",
+					"-Wextra",
+					"-Wbad-function-cast",
+					"-Wdeclaration-after-statement",
+					"-Wmissing-format-attribute",
+					"-Wnested-externs",
+					"-Wnewline-eof",
+					"-Wold-style-definition",
+					"-Wredundant-decls",
+					"-Wsequence-point",
+					"-Wstrict-prototypes",
+					"-Wswitch-default",
+					"-Wwrite-strings",
+					"-Winit-self",
+					"-Wcast-align",
+					"-Wcast-qual",
+					"-Wold-style-cast",
+					"-Wpointer-arith",
+					"-Wstrict-aliasing",
+					"-Wformat=2",
+					"-Wuninitialized",
+					"-Wmissing-declarations",
+					"-Woverloaded-virtual",
+					"-Wnon-virtual-dtor",
+					"-Wctor-dtor-privacy",
+				);
+			};
+			name = release;
+		};
+		C9895B5A9A7EDD1173EFB565 /* release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INTERMEDIATE_DIR = "$(PROJECT_DERIVED_FILE_DIR)/$(CONFIGURATION)";
+				SDKROOT = iphoneos;
+				SHARED_INTERMEDIATE_DIR = "$(SYMROOT)/DerivedSources/$(CONFIGURATION)";
+				SYMROOT = ../../build/ios;
+			};
+			name = release;
+		};
+		F0E51C4953186E60F0E94502 /* debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INTERMEDIATE_DIR = "$(PROJECT_DERIVED_FILE_DIR)/$(CONFIGURATION)";
+				SDKROOT = iphoneos;
+				SHARED_INTERMEDIATE_DIR = "$(SYMROOT)/DerivedSources/$(CONFIGURATION)";
+				SYMROOT = ../../build/ios;
+			};
+			name = debug;
+		};
+		F843B80199C5C620036DAE21 /* debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				CLANG_STATIC_ANALYZER_MODE = deep;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_IMPLICIT_SIGN_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_IMPLICIT_CONVERSION = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COMBINE_HIDPI_IMAGES = NO;
+				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_FAST_MATH = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = "DEBUG=1";
+				GCC_STRICT_ALIASING = NO;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
+				GCC_TREAT_INCOMPATIBLE_POINTER_TYPE_WARNINGS_AS_ERRORS = YES;
+				GCC_UNROLL_LOOPS = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_FIELD_INITIALIZERS = YES;
+				GCC_WARN_ABOUT_MISSING_NEWLINE = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_FOUR_CHARACTER_CONSTANTS = YES;
+				GCC_WARN_INITIALIZER_NOT_FULLY_BRACKETED = YES;
+				GCC_WARN_SHADOW = YES;
+				GCC_WARN_SIGN_COMPARE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNKNOWN_PRAGMAS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_LABEL = YES;
+				GCC_WARN_UNUSED_PARAMETER = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					../../source,
+					../../source/Utility/ios,
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LD_NO_PIE = NO;
+				LLVM_LTO = NO;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = All;
+				RUN_CLANG_STATIC_ANALYZER = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				WARNING_CFLAGS = (
+					"-Wall",
+					"-Werror",
+					"-Wextra",
+					"-Wbad-function-cast",
+					"-Wdeclaration-after-statement",
+					"-Wmissing-format-attribute",
+					"-Wnested-externs",
+					"-Wnewline-eof",
+					"-Wold-style-definition",
+					"-Wredundant-decls",
+					"-Wsequence-point",
+					"-Wstrict-prototypes",
+					"-Wswitch-default",
+					"-Wwrite-strings",
+					"-Winit-self",
+					"-Wcast-align",
+					"-Wcast-qual",
+					"-Wold-style-cast",
+					"-Wpointer-arith",
+					"-Wstrict-aliasing",
+					"-Wformat=2",
+					"-Wuninitialized",
+					"-Wmissing-declarations",
+					"-Woverloaded-virtual",
+					"-Wnon-virtual-dtor",
+					"-Wctor-dtor-privacy",
+				);
+			};
+			name = debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1CF626B6B5F4D8453DB8EB8E /* Build configuration list for PBXAggregateTarget "All" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F843B80199C5C620036DAE21 /* debug */,
+				2C9CD9B8109798C7542CE1BE /* release */,
+			);
+			defaultConfigurationIsVisible = 1;
+			defaultConfigurationName = debug;
+		};
+		EEDC546F642F0A1B5EF11C4E /* Build configuration list for PBXProject "All" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F0E51C4953186E60F0E94502 /* debug */,
+				C9895B5A9A7EDD1173EFB565 /* release */,
+			);
+			defaultConfigurationIsVisible = 1;
+			defaultConfigurationName = debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FEA76CDD3C70B794E2326810 /* Project object */;
+}
